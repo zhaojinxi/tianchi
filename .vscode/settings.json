@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
+    "python.pythonPath": "python",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+}
